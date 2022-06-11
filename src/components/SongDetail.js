@@ -10,7 +10,7 @@ class SongDetail extends Component {
             return (
               <div className="detail ui list">
                 <div className="item">
-                  <center><h1>{name} Please select a song</h1></center>
+                  <center><h2>{name} please select a song</h2></center>
                 </div>
               </div>
             );
